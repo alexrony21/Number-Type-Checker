@@ -1,5 +1,7 @@
 # Phone Number Type Checker
 
+![image](https://raw.githubusercontent.com/alexrony21/Number-Type-Checker/refs/heads/main/Phone_Number_Type_Checker.png)
+
 The Phone Number Type Checker is a utility designed to verify and categorize phone numbers based on their type. This tool supports 206 countries.
 
 ## Type Identification
@@ -14,7 +16,7 @@ The tool categorizes phone numbers into the following types:
 
 ## Contact
 
-To inquire about purchasing this tool or for more information, please contact via Telegram: [@alexrony21](https://t.me/alexrony21).
+To inquire about purchasing this tool or for more information, please contact via Telegram: [@thepythoncode97]([https://t.me/alexrony21](https://t.me/thepythoncode97)).
 
 ## Supported Country
 -Afghanistan
@@ -223,3 +225,8 @@ To inquire about purchasing this tool or for more information, please contact vi
 -Yemen
 -Zambia
 -Zimbabwe
+
+## Note:
+This tool is designed for marketers and businesses. If you engage in any illegal activities using this tool, the author will not take any responsibility.
+
+---
